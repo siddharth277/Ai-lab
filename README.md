@@ -339,8 +339,8 @@ This lab provides a holistic view of the unsupervised learning landscape and equ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI_lab.git
-cd AI_lab
+git clone [https://github.com/siddharth277/Ai-lab.git]
+cd Ai-lab
 ```
 
 ### 2. Install Dependencies
@@ -369,7 +369,7 @@ Your `AI_lab` folder **already has a `.git` folder inside it** — meaning it wa
 2. Name it `AI_lab`
 3. Choose **Public** or **Private**
 4. **Do NOT** initialize with a README (you already have one)
-5. Click **Create repository** and copy the repo URL (e.g. `https://github.com/yourname/AI_lab.git`)
+5. Click **Create repository** and copy the repo URL (e.g. `[https://github.com/siddharth277/Ai-lab.git]`)
 
 ### Step 2 — Open Terminal Inside the AI_lab Folder
 
