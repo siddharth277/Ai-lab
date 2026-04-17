@@ -399,7 +399,7 @@ Place the downloaded `README.md` file inside your `AI_lab/` folder.
 git add .
 
 # Commit
-git commit -m "Add all AI lab submissions with detailed README"
+git commit -m "AI LAB SUBMISSIONS"
 
 # Set branch and push
 git branch -M main
