@@ -382,10 +382,10 @@ git remote -v
 
 ```bash
 # If no remote exists:
-git remote add origin https://github.com/YOUR_USERNAME/AI_lab.git
+git remote add origin https://github.com/siddharth277/Ai-lab.git
 
 # If a remote already exists but is wrong:
-git remote set-url origin https://github.com/YOUR_USERNAME/AI_lab.git
+git remote set-url origin https://github.com/siddharth277/Ai-lab.git
 ```
 
 ### Step 4 — Copy This README into the Folder
@@ -410,7 +410,7 @@ git push -u origin main
 > Generate one at: GitHub → Settings → Developer Settings → Personal Access Tokens → **Generate new token (classic)** → check `repo` → copy the token and paste it as your password.
 
 ### Step 6 — Verify ✅
-Open `https://github.com/YOUR_USERNAME/AI_lab` in your browser — all labs and the README will render on the homepage.
+Open `https://github.com/siddharth277/Ai-lab.git` in your browser — all labs and the README will render on the homepage.
 
 ---
 
